@@ -25,13 +25,13 @@ html:hover .spider {
     width: 2px;
     height: 200px;
     margin-left: 49px;
-    background: rgba(255,255,255, .7);
+    background: rgba(204, 159, 159, 0.7);
 }
 
 .spider .body {
     width: 100px;
     height: 80px;
-    background: #000;
+    background: #524747;
     position: relative;
     border-radius: 50%;
 }
