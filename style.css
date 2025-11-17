@@ -1,5 +1,5 @@
 html {
-    background: #ff785a;
+    background: #1d1d31;
 }
 
 /* Bonus */
@@ -24,7 +24,7 @@ html:hover .spider {
     width: 2px;
     height: 200px;
     margin-left: 49px;
-    background: rgba(204, 159, 159, 0.7);
+    background: rgba(255, 254, 254, 0.7);
 }
 
 .spider .body {
