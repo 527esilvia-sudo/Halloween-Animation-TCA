@@ -167,13 +167,13 @@ body {
     opacity: 0;
 }
 
-/* #spooky:hover #body,
-#spooky:hover #body::before,
-#spooky:hover #body::after,
-#spooky:hover #body #feet > *,
-#spooky:hover #body #feet::before,
-#spooky:hover #body #feet::after {
- background: #424f6f;
-    cursor:pointer;
+a {
+    background-color:white;
+    padding:20px;
+    
+    border-radius:30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:3em;
+    justify-content: center;
+}
 
-} */
